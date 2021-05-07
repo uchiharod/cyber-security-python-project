@@ -12,4 +12,4 @@ This is a shorter version of the python nmap program but coded differently. This
 
 
 ### Objective 
-To use Python in greater capacity
+To use Python in greater capacity and using it to create programs
